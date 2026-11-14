@@ -1,0 +1,11 @@
+# Build output
+out/
+
+# Runtime data (recreated on first run)
+data/
+invoices/
+*.tmp
+
+# Local only
+*.pptx
+.DS_Store
